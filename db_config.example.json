@@ -1,0 +1,32 @@
+{
+  "database": {
+      "host": "localhost",
+      "port": 3306,
+      "user": "your_username",
+      "password": "your_password",
+      "database": "your_database"
+  },
+  "aws": {
+      "access_key": "your_access_key",
+      "secret_key": "your_secret_key",
+      "region": "us-west-2"
+  },
+  "backblaze": {
+      "account_id": "your_account_id",
+      "application_key": "your_application_key",
+      "bucket_name": "your_bucket_name",
+      "endpoint": "s3.us-west-000.backblazeb2.com"
+  },
+  "gcs": {
+      "service_account_key": "path_to_your_service_account_key.json"
+  },
+  "azure": {
+      "connection_string": "your_connection_string"
+  },
+  "slack_webhook": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX",
+  "schedule": {
+      "frequency": "daily",
+      "time": "03:00",
+      "retention_days": 30
+  }
+}
