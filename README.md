@@ -2,8 +2,6 @@
 
 A powerful, flexible command-line utility designed to automate and simplify database backup operations across multiple database systems. This tool helps you maintain data integrity with scheduled backups, cloud storage integration, and comprehensive logging.
 
-![Database Backup Banner](https://via.placeholder.com/800x200/0062cc/ffffff?text=Database+Backup+Utility)
-
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Docker Support](https://img.shields.io/badge/docker-supported-brightgreen)](https://www.docker.com/)
